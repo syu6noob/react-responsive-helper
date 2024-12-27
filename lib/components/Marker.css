@@ -1,0 +1,23 @@
+.responsive-helper-markers {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: block;
+}
+.responsive-helper-marker {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  background: black;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+.responsive-helper-marker--hidden {
+  display: none !important;
+}

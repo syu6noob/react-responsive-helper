@@ -1,7 +1,19 @@
 {
   "name": "react-responsive-helper",
-  "private": true,
-  "version": "0.0.0",
+  "description": "The React library that helps you create responsive websites.",
+  "private": false,
+  "keywords": [
+    "react",
+    "responsive",
+    "css",
+    "tailwind"
+  ],
+  "author": "syu6noob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syu6noob/react-responsive-helper/issues"
+  },
+  "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

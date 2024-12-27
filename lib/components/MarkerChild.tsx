@@ -16,7 +16,6 @@ export default function MarkerChild({
   const [isVisible, setIsVisible] = React.useState(false);
 
   React.useEffect(() => {
-    console.log(width);
     if (type === 'max') {
       if (width < value) setIsVisible(true)
       else setIsVisible(false)

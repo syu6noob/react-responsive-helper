@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/syu6noob/react-responsive-helper/issues"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
